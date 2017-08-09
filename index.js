@@ -1,3 +1,6 @@
+/**
+ * StackList class
+ */
 class StackList {
 	/**
 	 * Constructor
@@ -62,4 +65,4 @@ class StackList {
 
 module.exports = {
 	StackList
-}
+};
