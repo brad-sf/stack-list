@@ -16,7 +16,7 @@ tap.equal(list.size, 2);
 // It peeks new value
 tap.equal(list.peek(), 'Hey');
 
-// It pops FIFO
+// It pops LIFO
 tap.equal(list.pop(), 'Hey');
 tap.equal(list.size, 1);
 tap.equal(list.pop(), 'Yo');

@@ -1,5 +1,5 @@
 # Stack List
-FIFO stack list
+LIFO stack list
 
 ## Installation
 ```bash
